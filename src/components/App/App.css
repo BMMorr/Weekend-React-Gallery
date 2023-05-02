@@ -18,6 +18,11 @@ img {
   height: 175px;
 }
 
+.descript {
+  width: 175px;
+  height: 162.5px;
+}
+
 .ulbox {
   display: flex;
   flex-wrap: wrap;
@@ -29,4 +34,8 @@ img {
 
 .box {
   margin: 20px;
+}
+
+.opacity {
+  opacity: 0;
 }
